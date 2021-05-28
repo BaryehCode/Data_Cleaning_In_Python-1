@@ -8,3 +8,4 @@ This Project is an introduction to data cleaning. It employs basic methods in Py
 -A lot could have been done to the data but this is just an introduction. The 'final destination' of data cleaning (for want of a better phrase) is dependednt on the type of analysis the user intends to do on the data.
 
 The Original adta is <nash_housing_data.csv> and the cleaned data is <nash_housing_data_cleaned.csv>
+I will do another Data Cleaning project where I employ more robust techniques such as Data blending, creation of calculated columns etc
